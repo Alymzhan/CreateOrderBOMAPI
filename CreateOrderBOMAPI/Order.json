@@ -1,0 +1,26 @@
+{
+  "Header": {
+    "TransactionNumber": null,
+    "TransactionReference": null,
+    "CreateDate": "2019-11-20T00:00:00",
+    "Description": "Drawer SP",
+    "CustomerId": "37665FCA-5117-4584-B38E-4F51E1849653",
+    "CreatorId": "Postman",
+    "EngineerId": null,
+    "PromisedShipDate": "0001-01-01T00:00:00",
+    "Status": 0,
+    "Finish": null,
+    "FinishDescription": null,
+    "ShippingAddress": "CTech Manufacturing\r\n7501 Commerce Drive\r\n",
+    "ShippingCity": "Weston",
+    "ShippingState": "WI",
+    "ShippingZip": "54476",
+    "ShippingMethod": "",
+    "NetSales": 0.0,
+    "TotalSales": 0.0,
+    "BillingTerms": "",
+    "Note": null,
+    "TransactionNotes": []
+  },
+  "LineItems": []
+}

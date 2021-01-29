@@ -1,0 +1,190 @@
+{
+    "width": 15.0,
+    "height": 17.5,
+    "depth": 26.0,
+    "finish": {
+      "color": null,
+      "customColor": null,
+      "shelves": false
+    },
+    "options": {
+      "shelfLiner": false,
+      "frameOnly": false
+    },
+    "frame": {
+      "width": 15.0,
+      "height": 14.0,
+      "weightNoB": 1.991,
+      "weightWithB": 0.0,
+      "weightVSplit": 0.0,
+      "weightHSplit": 0.0,
+      "priceNoB": 24.589,
+      "priceWithB": 0.0,
+      "priceVSplit": 0.0,
+      "priceHSplit": 0.0,
+      "depth": 26.0,
+      "finish": {
+        "color": "Black Anodized",
+        "openingColor": "Black Anodized"
+      },
+      "bottomRail": false,
+      "gasketLoc": null,
+      "GLWeight": 0.0,
+      "GLPrice": 0.0
+    },
+    "shell": {
+      "backPanel": true,
+      "topPanel": false,
+      "bottomPanel": false,
+      "weight": 0.0,
+      "bottomPnlWeight": 0.0,
+      "backPnlWeight": 0.0,
+      "price": 0.0,
+      "bottomPnlPrice": 0.0,
+      "backPnlPrice": 0.0,
+      "toekick": {
+        "adjustableFeet": true,
+        "venting": false,
+        "weight": 0.0,
+        "price": 0.0
+      },
+      "internalBracing": {
+        "left": false,
+        "right": false,
+        "weight": 0.0,
+        "price": 0.0
+      },
+      "internalBracingWeight": 0.0,
+      "internalBracingPrice": 0.0
+    },
+    "extensions": {
+      "left": null,
+      "right": null,
+      "weight": 0.0,
+      "price": 0.0
+    },
+    "soffit": {
+      "height": 0.0,
+      "left": false,
+      "right": false,
+      "front": false,
+      "LRWeight": 0.0,
+      "frontWeight": 0.0,
+      "LRPrice": 0.0,
+      "frontPrice": 0.0
+    },
+    "radius": {
+      "left": false,
+      "right": false,
+      "top": false,
+      "bottom": false,
+      "lighting": {
+        "switches": "none",
+        "wiring": "left",
+        "lights": 0.0,
+        "voltage": null,
+        "lightType": "none"
+      },
+      "SPWeight": 0.0,
+      "MPWeight": 0.0,
+      "SPPrice": 0.0,
+      "MPPrice": 0.0
+    },
+    "openings": [
+      {
+        "frame": {
+          "left": "end rail",
+          "right": "end rail",
+          "top": "top rail",
+          "bottom": "toekick",
+          "finish": {
+            "color": "Black Anodized"
+          }
+        },
+        "width": 12.0,
+        "height": 12.5,
+        "depth": 26.0,
+        "contents": {
+          "type": "insert",
+          "data": {
+            "width": 12.0,
+            "height": 11.577,
+            "weight": 0.0,
+            "sBWeight": 0.0,
+            "price": 0.0,
+            "sBPrice": 0.0,
+            "depth": 23.252,
+            "duty": "standard",
+            "insert": {
+              "width": 12.0,
+              "height": 10.375,
+              "weight": 0.0,
+              "backPnlWeight": 0.0,
+              "hatWeight": 0.0,
+              "price": 0.0,
+              "backPnlPrice": 0.0,
+              "hatPrice": 0.0,
+              "depth": 24.677
+            },
+            "finish": {
+              "color": null,
+              "customColor": null,
+              "blackAnodizedHandles": false,
+              "shelf": false,
+              "drawerFronts": true,
+              "insertSides": false,
+              "backPanel": false
+            },
+            "handle": null,
+            "topSpace": 0.0,
+            "shelf": {
+              "type": "None",
+              "overrideSlotSpacing": false,
+              "customSlotSpacing": 0.0,
+              "frontOffset": 0.0,
+              "rearOffset": 0.0,
+              "weight": 0.0,
+              "price": 0.0
+            },
+            "drawers": [
+              {
+                "height": 10.0,
+                "weight": 0.0,
+                "weightDiv": 0.0,
+                "linerWeight": 0.0,
+                "price": 0.0,
+                "priceDiv": 0.0,
+                "linerPrice": 0.0,
+                "divisions": 0.0,
+                "liner": true,
+                "separators": 0.0,
+                "partsTray": false,
+                "whiteboard": false,
+                "dividerType": "LeftToRight",
+                "locking": null
+              }
+            ],
+            "riser": {
+              "height": 0.0,
+              "offset": 0.0
+            },
+            "bottomNotch": {
+              "height": 0.0,
+              "depth": 0.0
+            },
+            "locking": "none"
+          },
+          "shelves": {
+            "adjustable": 0.0,
+            "shelfWeight": 0.0,
+            "shelfPrice": 0.0,
+            "slideOut": 0.0,
+            "hangerBar": 0.0,
+            "hangerBarWeight": 0.0,
+            "hangerBarPrice": 0.0,
+            "liner": false
+          }
+        }
+      }
+    ]
+}

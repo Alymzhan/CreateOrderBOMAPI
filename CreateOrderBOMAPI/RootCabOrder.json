@@ -1,0 +1,17 @@
+[
+  {
+    "Index": 1,
+    "ModelName": "ROOT_CAB",
+    "ModelInstance": "ROOT_CAB_",
+    "ModelData": {},
+    "ModelOverrides": {},
+    "Itemid": "DSP_",
+    "Description": null,
+    "Price": 1.0,
+    "Quantity": 1.0,
+    "ExtendedPrice": 1.0,
+    "Note": null,
+    "ApiModelMap": "ROOT_CAB",
+    "ItemType": 0
+  }
+]
